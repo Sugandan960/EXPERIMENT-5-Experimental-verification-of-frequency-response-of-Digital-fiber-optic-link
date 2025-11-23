@@ -59,10 +59,16 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 **Transmission through Digital Link**
 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
 
----
+---1 kHz	                3.48 V                    	0.496	        -6.09
+   5 kHz	                4.74 V	                     0.948	        -0.46
+   10 kHz	             9.75 V	                     1.98	         5.823
+   20 kHz	             11.47 V                    	2.294	         7.211
+   50 kHz	             12.90 V                    	2.58	         8.23
+   75 kHz	             12.85 V	                     2.58	         8.23
+   100 kHz	             10.85 V	                     2.17	         6.729
+   150 kHz	             8.47 V	                     2.17	         6.729
+   250 kHz	             5.48 V	                     1.694	         4.576
 
 ## MODEL GRAPH
 ![Uploading image.png…]()
